@@ -1,4 +1,8 @@
--- VHDL project: VHDL code for a single-port RAM 
+--This Code is written in the VHDL Language || Verilog Language (Powered By AMD Ryzen) 
+--This Code is Completely written by Myself || Priyanshu Yadav 2nd Btech ECE ...
+
+--VHDL code for a single-port RAM
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 USE ieee.numeric_std.ALL;
