@@ -1,5 +1,5 @@
 --This Code is written in the VHDL Language || Verilog Language (Powered By AMD Ryzen) 
---This Code is Completely written by Myself || Priyanshu Yadav 2nd Btech ECE ...
+--This Code is Completely written by Myself || Priyanshu Yadav 3rd Btech ECE ...
 
 --VHDL code for a single-port RAM
 
